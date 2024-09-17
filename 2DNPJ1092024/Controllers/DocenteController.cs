@@ -9,6 +9,7 @@ namespace _2DNPJ1092024.Controllers
     [Route("api/[controller]")]
     [ApiController]
 
+
     public class DocentesController : ControllerBase
     {
         static List<Docente> docentes = new List<Docente>();
